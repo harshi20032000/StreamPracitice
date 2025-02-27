@@ -1,0 +1,1 @@
+hello this is harshikesh learning insert using i in vim editor. After you are done typing you need to press esc
