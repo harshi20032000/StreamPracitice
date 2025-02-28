@@ -1,9 +1,9 @@
 package lectures;
 
 
-import com.google.common.collect.Lists;
 import java.util.Arrays;
 import java.util.function.Predicate;
+
 import org.junit.Test;
 
 public class Lecture6 {
@@ -17,9 +17,9 @@ public class Lecture6 {
     System.out.println("findany - "+integer);
   }
 
-  /*The differennce between findFirst and 
-   * FindAny is that FindFirst is deterministic in nat
-   * ure no matter how many times you run it you get the same output for same input.
+  /*The difference between findFirst and 
+   * FindAny is that FindFirst is deterministic in nature 
+   * no matter how many times you run it you get the same output for same input.
    * 
    */
   @Test
